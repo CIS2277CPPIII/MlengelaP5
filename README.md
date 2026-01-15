@@ -5,7 +5,7 @@
 #### __Do Not Modify these files.__
 
 # Turn in requirements: 
-# Follow directions on the P5_LinkedListMgr_TestRun Description handout. 
+### Follow directions on the P5_LinkedListMgr_TestRun Description handout. 
 
 Please create a Visual Studio project named LastnameP5.  It will have all your source code. Once again, (as in Program 3), place your LastnamePersonGen folder with your source code. It should have all the files needed for generating Persons, including the Person.h, Date.h, PersonGen.h, plus the lib and the name text files. It will be the folder we use from now on whenever Persons are needed.
 
